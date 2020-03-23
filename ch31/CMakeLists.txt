@@ -1,0 +1,1 @@
+add_lua_library(array array.c)
